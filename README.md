@@ -1,2 +1,0 @@
-# scripts
-#khen.cc #skill
